@@ -1,1 +1,3 @@
-# docker-latex
+# texlive
+
+Docker image for texlive on Ubuntu
